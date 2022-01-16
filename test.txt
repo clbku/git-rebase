@@ -8,3 +8,4 @@ update something in feature a
 add feature b
 update feature a 3
 change something in feature a
+update something in feature a
