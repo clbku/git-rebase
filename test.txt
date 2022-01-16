@@ -11,3 +11,4 @@ change something in feature a
 update something in feature a
 add feature c
 update feature c
+update feature c
